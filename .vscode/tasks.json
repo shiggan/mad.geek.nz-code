@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/202002_mediatr-awesomesauce.csproj",
+                "${workspaceFolder}/202003_mediatr-awesomesauce-3/202003_mediatr-awesomesauce-3.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/202002_mediatr-awesomesauce.csproj",
+                "${workspaceFolder}/202003_mediatr-awesomesauce-2/202003_mediatr-awesomesauce-2.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -32,7 +32,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/202002_mediatr-awesomesauce.csproj",
+                "${workspaceFolder}/202003_mediatr-awesomesauce-1/202003_mediatr-awesomesauce-1.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
